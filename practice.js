@@ -18,7 +18,7 @@ var arr = [10,20,30];
 */
 
 //Code Here
-
+function
 
 
 ////////// PROBLEM 2 //////////
